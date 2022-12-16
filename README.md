@@ -1,7 +1,7 @@
 # Unity examples
 Unity project with interactive motion examples shown in class
 
-[Slides from class](https://docs.google.com/presentation/d/1AonTzWefgSbIQczz1FdbAblblJgyVIgWseAqwb8eXmk/edit?usp=share_link))
+[Slides from class](https://docs.google.com/presentation/d/1AonTzWefgSbIQczz1FdbAblblJgyVIgWseAqwb8eXmk/edit?usp=share_link)
 
 Instructions to open:
 1. Open the project in the Unity Editor
