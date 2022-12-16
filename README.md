@@ -1,4 +1,4 @@
-# Unity examples
+# Interactive motion examples
 Unity project with interactive motion examples shown in class
 
 [Slides from class](https://docs.google.com/presentation/d/1AonTzWefgSbIQczz1FdbAblblJgyVIgWseAqwb8eXmk/edit?usp=share_link)
